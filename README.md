@@ -33,3 +33,5 @@ The converter is configured to:
 - Convert all colors to `currentColor`
 
 You can modify these settings in `src/convert-mdi.ts` if needed. 
+
+Thanks to https://github.com/iconify/tools/tree/main/%40iconify/tools for the base code.
