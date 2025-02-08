@@ -1,0 +1,19 @@
+{
+  "name": "svg2iconify",
+  "version": "1.0.0",
+  "description": "Convert SVG icons to Iconify format",
+  "main": "lib/convert-mdi.js",
+  "scripts": {
+    "build": "tsc",
+    "convert": "node lib/convert-mdi.js"
+  },
+  "dependencies": {
+    "@iconify/tools": "^3.0.5",
+    "@iconify/types": "^2.0.0",
+    "@mdi/svg": "^7.4.47"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+} 
